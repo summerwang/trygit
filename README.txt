@@ -1,8 +1,7 @@
-read
-add license information
-I am trying verison back test
-Add new
-Git is a version control system
-Git has a mutalbe index called stage
-Git tracks changes of files
+This is my learning of Github from http://www.liaoxuefeng.com/wiki
+
+This course is written in English. 
+
+It teaches all the basic functions of git.
+
 
